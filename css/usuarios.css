@@ -1,0 +1,25 @@
+p.nombreusuario {
+    cursor: pointer;
+}
+
+p.nombreusuario:hover  {
+    background-color:bisque;
+}
+
+.users {
+    display: flex;
+}
+
+/*.nameusers {
+    padding: 0px 20px;
+}*/
+
+.fotousers {
+    display: flex;
+    justify-content:center;
+    flex: 8;
+}
+
+.fotousuario {
+    width: 15%;
+}
